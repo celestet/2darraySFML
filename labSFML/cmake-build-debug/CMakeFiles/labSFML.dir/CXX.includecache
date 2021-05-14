@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/celeste/Desktop/folders/PCC/sophmore/fall/cs3A-smith/ch 9 programs/labSFML/labSFML.cpp
+iostream
+-
+SFML/Graphics.hpp
+-
+

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="labSFML"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\..\;CMake Files\..\..\..\..\;CMake Files\..\..\..\..\..\;CMake Files\..\..\..\..\..\..\;CMake Files\..\..\..\..\..\..\..\;CMake Files\..\..\..\..\..\..\..\..\;CMake Files\..\..\..\..\..\..\..\..\..\;CMake Files\..\..\..\..\..\..\..\..\..\..\;CMake Files\..\..\..\..\..\..\..\..\..\..\SFML.framework\;CMake Files\..\..\..\..\..\..\..\..\..\..\SFML.framework\Resources\;CMake Files\..\..\..\..\..\..\..\..\..\..\SFML.framework\Resources\CMake\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/celeste/Desktop/folders/PCC/sophmore/fall/cs3A-smith/ch 9 programs/labSFML/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/celeste/Desktop/folders/PCC/sophmore/fall/cs3A-smith/ch\ 9\ programs/labSFML/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/celeste/Desktop/folders/PCC/sophmore/fall/cs3A-smith/ch\ 9\ programs/labSFML/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/celeste/Desktop/folders/PCC/sophmore/fall/cs3A-smith/ch\ 9\ programs/labSFML/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/celeste/Desktop/folders/PCC/sophmore/fall/cs3A-smith/ch\ 9\ programs/labSFML/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/celeste/Desktop/folders/PCC/sophmore/fall/cs3A-smith/ch 9 programs/labSFML/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/celeste/Desktop/folders/PCC/sophmore/fall/cs3A-smith/ch\ 9\ programs/labSFML/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/celeste/Desktop/folders/PCC/sophmore/fall/cs3A-smith/ch\ 9\ programs/labSFML/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/celeste/Desktop/folders/PCC/sophmore/fall/cs3A-smith/ch\ 9\ programs/labSFML/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/celeste/Desktop/folders/PCC/sophmore/fall/cs3A-smith/ch\ 9\ programs/labSFML/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/celeste/Desktop/folders/PCC/sophmore/fall/cs3A-smith/ch 9 programs/labSFML/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/celeste/Desktop/folders/PCC/sophmore/fall/cs3A-smith/ch\ 9\ programs/labSFML/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/celeste/Desktop/folders/PCC/sophmore/fall/cs3A-smith/ch\ 9\ programs/labSFML/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/celeste/Desktop/folders/PCC/sophmore/fall/cs3A-smith/ch\ 9\ programs/labSFML/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/celeste/Desktop/folders/PCC/sophmore/fall/cs3A-smith/ch\ 9\ programs/labSFML/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="labSFML">
+				<Option output="/Users/celeste/Desktop/folders/PCC/sophmore/fall/cs3A-smith/ch 9 programs/labSFML/cmake-build-debug/labSFML" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/celeste/Desktop/folders/PCC/sophmore/fall/cs3A-smith/ch 9 programs/labSFML/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/SFML.framework"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/celeste/Desktop/folders/PCC/sophmore/fall/cs3A-smith/ch\ 9\ programs/labSFML/cmake-build-debug/Makefile&quot;  VERBOSE=1 labSFML"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/celeste/Desktop/folders/PCC/sophmore/fall/cs3A-smith/ch\ 9\ programs/labSFML/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/celeste/Desktop/folders/PCC/sophmore/fall/cs3A-smith/ch\ 9\ programs/labSFML/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/celeste/Desktop/folders/PCC/sophmore/fall/cs3A-smith/ch\ 9\ programs/labSFML/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="labSFML/fast">
+				<Option output="/Users/celeste/Desktop/folders/PCC/sophmore/fall/cs3A-smith/ch 9 programs/labSFML/cmake-build-debug/labSFML" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/celeste/Desktop/folders/PCC/sophmore/fall/cs3A-smith/ch 9 programs/labSFML/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/SFML.framework"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/celeste/Desktop/folders/PCC/sophmore/fall/cs3A-smith/ch\ 9\ programs/labSFML/cmake-build-debug/Makefile&quot;  VERBOSE=1 labSFML/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/celeste/Desktop/folders/PCC/sophmore/fall/cs3A-smith/ch\ 9\ programs/labSFML/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/celeste/Desktop/folders/PCC/sophmore/fall/cs3A-smith/ch\ 9\ programs/labSFML/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/celeste/Desktop/folders/PCC/sophmore/fall/cs3A-smith/ch\ 9\ programs/labSFML/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/celeste/Desktop/folders/PCC/sophmore/fall/cs3A-smith/ch 9 programs/labSFML/labSFML.cpp">
+			<Option target="labSFML"/>
+		</Unit>
+		<Unit filename="/Users/celeste/Desktop/folders/PCC/sophmore/fall/cs3A-smith/ch 9 programs/labSFML/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/Users/celeste/Desktop/folders/PCC/sophmore/fall/cs3A-smith/ch 9 programs/labSFML/../../../../../../../../../../SFML.framework/Resources/CMake/SFMLConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\..\..\..\SFML.framework\Resources\CMake\"/>
+		</Unit>
+		<Unit filename="/Users/celeste/Desktop/folders/PCC/sophmore/fall/cs3A-smith/ch 9 programs/labSFML/../../../../../../../../../../SFML.framework/Resources/CMake/SFMLConfigDependencies.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\..\..\..\SFML.framework\Resources\CMake\"/>
+		</Unit>
+		<Unit filename="/Users/celeste/Desktop/folders/PCC/sophmore/fall/cs3A-smith/ch 9 programs/labSFML/../../../../../../../../../../SFML.framework/Resources/CMake/SFMLConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\..\..\..\SFML.framework\Resources\CMake\"/>
+		</Unit>
+		<Unit filename="/Users/celeste/Desktop/folders/PCC/sophmore/fall/cs3A-smith/ch 9 programs/labSFML/../../../../../../../../../../SFML.framework/Resources/CMake/SFMLSharedTargets-release.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\..\..\..\SFML.framework\Resources\CMake\"/>
+		</Unit>
+		<Unit filename="/Users/celeste/Desktop/folders/PCC/sophmore/fall/cs3A-smith/ch 9 programs/labSFML/../../../../../../../../../../SFML.framework/Resources/CMake/SFMLSharedTargets.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\..\..\..\SFML.framework\Resources\CMake\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
